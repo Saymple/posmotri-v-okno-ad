@@ -1,1 +1,1 @@
-https://github.com/Saymple/ono-tebe-nado-ad
+https://github.com/Saymple/posmotri-v-okno-ad
